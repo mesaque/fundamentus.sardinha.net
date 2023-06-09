@@ -1,1 +1,23 @@
+############################
+# --- Required options --- #
+############################
+
+# Name of website
+title: Fundamentus do Cerrado
+
+# Your name to show in the footer
+author: Mesaque Silva
+
+social-network-links:
+  email: "mesaque.s.silva@gmail.com"
+  github: mesaque
+  twitter: mesaquesoares
+  patreon: mesaque
+  linkedin: mesaquesilva
+
+share-links-active:
+  twitter: true
+  linkedin: true
+  
 theme: minima
+url-pretty: "FundamentusSardinha.net"
