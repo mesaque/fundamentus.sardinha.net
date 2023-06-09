@@ -6,3 +6,16 @@
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrWhzJ96Qnxt7mPt?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+
+Sobre a planilha **critique, me corrija , contribua e opine** pois roma não foi feita em 1 dia e nem com 1 única pessoa , voce pode me achar nos canais sociais que vou ficar muito feliz em te responder.
+
+Está faltando alguma empresa? me envie um email com os nomes que adicionarei na tabela!
+
+<h3 align="left">meus contatos:</h3>
+<p align="left">
+<a href="https://twitter.com/mesaquesoares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesaquesoares" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mesaquesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesaquesilva" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mesaquesilva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mesaquesilva" /></a></p><br><br>
