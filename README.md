@@ -6,8 +6,9 @@
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrWhzJ96Qnxt7mPt?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+---
 
-Sobre a planilha **critique, me corrija , contribua e opine** pois roma não foi feita em 1 dia e nem com 1 única pessoa , voce pode me achar nos canais sociais que vou ficar muito feliz em te responder.
+Sobre a planilha: critique, me corrija, contribua e opine, pois Roma não foi feita em 1 dia e nem por 1 só pessoa , você pode me achar nos canais sociais que vou ficar muito feliz em te responder.
 
 Está faltando alguma empresa? me envie um email com os nomes que adicionarei na tabela!
 
@@ -17,5 +18,7 @@ Está faltando alguma empresa? me envie um email com os nomes que adicionarei na
 <a href="https://linkedin.com/in/mesaquesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesaquesilva" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mesaquesilva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mesaquesilva" /></a></p><br><br>
+<h3 align="left">Colabore para manter isso online:</h3>
+<p><a href="https://www.buymeacoffee.com/mesaquesilva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mesaquesilva" /></a></p><br><br><br>
+<p>PIX: mesaque.s.silva@gmail.com</p><br><br>
+
